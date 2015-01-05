@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000514_0000_0FA6A8A8F8344E40"/>
-            <pb facs="tcp:000514_0001_0FA6A8A9B6A526A8"/>
+            <pb facs="unknown:000514_0000_0FA6A8A8F8344E40"/>
+            <pb facs="unknown:000514_0001_0FA6A8A9B6A526A8"/>
             <p>A Plain Short CATECHISM FOR Children &amp; Youth,</p>
             <p>That may be Serviceable to such Others, who need to be instructed in the First Prin<g ref="char:EOLhyphen"/>ciples and Grounds of the Christian Religion.</p>
             <p>To which is added, A short Paraphrase or Opening, by way of Meditation on that Prayer which our Lord Jesus Christ taught his Disciples, com<g ref="char:EOLhyphen"/>monly call'd, <hi>The Lords Prayer.</hi>
@@ -134,7 +134,7 @@
             <p>Printed and Sold by <hi>William Bradford</hi> at <hi>Phila<g ref="char:EOLhyphen"/>delphia</hi> in <hi>Pennsilvania,</hi> 1690.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:000514_0002_0FA6A8AA8143DA40"/>
+            <pb facs="unknown:000514_0002_0FA6A8AA8143DA40"/>
             <head>A Friendly Epistle to the READER.</head>
             <opener>
                <salute>Friendly Reader;</salute>
@@ -173,7 +173,7 @@
                   </gap>ord of Truth</hi> within <hi>answers to the Words and <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>estimonies of Truth</hi> without, <hi>as face answers
-<pb facs="tcp:000514_0003_0FA6A8AB393B7958"/>
+<pb facs="unknown:000514_0003_0FA6A8AB393B7958"/>
 to face in Water, or as the Echo answers to the Voice of the Speaker.</hi>
             </p>
             <p>
@@ -182,7 +182,7 @@ to face in Water, or as the Echo answers to the Voice of the Speaker.</hi>
                   </gap>esty endeavoured to treat of the most</hi> Fundamental <hi>and</hi> Necessary Doctrines <hi>of the</hi> Christian Religion, <hi>and which I did judge most proper and suitable to those who are</hi> Young <hi>either in Tears, or in the Knowledge of the Truth, well knowing that</hi> Babes <hi>are to be fed with</hi> Milk, <hi>as</hi> strong Men <hi>with</hi> Meat; <hi>and as the good growth and thriving of Children o<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>twardly, and their sound Health, doth much depend on the Milk, or other suitable Nourishment to their weak state, its being good and wholsom, so the growth of such who are as Babes in Christ, doth greatly require, that wholsom and sound Doctrine be administred unto thom; for the Spirit and Power of Christ doth accompany the sound and wholsom Doctrine, delivered by men of a sound Mind, and is that nourishing Virtue that feedeth the Soul; but where the Doctrine is not sound nor true, that pure and holy Spirit doth not joyn with it, to feed and nourish the Soul: And Doctrine and Words, without the Spirit of Christ, is as Milk or Wine that is dead, and hath not the nourishing Virtue in it. Very many of the parti<g ref="char:EOLhyphen"/>cular Heads and Doctrines treated of, are such as are generally assented unto by most of these called</hi> Christians, <hi>of most sorts, being such as concern the common grounds of the</hi> Christian Re<g ref="char:EOLhyphen"/>ligion, <hi>generally acknowledged by all such, whom we can in any Charity judge to be true</hi> Christians;
-<pb facs="tcp:000514_0004_0FA6A8ABF7AC49F0"/>
+<pb facs="unknown:000514_0004_0FA6A8ABF7AC49F0"/>
                <hi>the which seem to me to be most Necessary to be known and believed, as much or more as some <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> these peculiar things of difference, which are <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -195,7 +195,7 @@ to face in Water, or as the Echo answers to the Voice of the Speaker.</hi>
                <hi>The particular Differences that the Truth it self maketh, betwixt things</hi> True <hi>and</hi> False, Good <hi>and</hi> Evil, <hi>are so to be minded, and with a dis<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>rect and godly Zeal to be contended for, that the common Grounds of</hi> Christian Religion, <hi>and the common</hi> Duties <hi>and</hi> Practices <hi>thereof, gene<g ref="char:EOLhyphen"/>rally acknowledged, by not neglected, but duly regarded, recommended and improved; and where the things that are</hi> common matters of Faith <hi>and</hi> Practice, <hi>among all or most sorts, are the more weighty, they require to be the more
-<pb facs="tcp:000514_0005_0FA6A8ACC72ABF50"/>
+<pb facs="unknown:000514_0005_0FA6A8ACC72ABF50"/>
 weightily regarded: And who do otherwise are greatly to be blamed, as such who take greater care of their Garments than of their Bodies, or such who are more concerned about a Finger and a Tot, to save it, than about the Head, and other prin<g ref="char:EOLhyphen"/>cipal Members. Most of the Common Heads of</hi> Christian Doctrine, <hi>generally assented unto, are of great weight, and therefore should be greatly minded and improved by all. According to our S<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>viour's Doctrine,</hi> there are the weigh<g ref="char:EOLhyphen"/>tier matters of the Law, <abbr>
@@ -211,7 +211,7 @@ weightily regarded: And who do otherwise are greatly to be blamed, as such who t
       </front>
       <body>
          <div type="catechism">
-            <pb n="1" facs="tcp:000514_0006_0FA6A8B10B78C098"/>
+            <pb n="1" facs="unknown:000514_0006_0FA6A8B10B78C098"/>
             <head>A Plain Short Christian Catechism FOR Children &amp; Youth, That may be serviceable to Others.</head>
             <p>By <hi>George Keith.</hi>
             </p>
@@ -234,7 +234,7 @@ weightily regarded: And who do otherwise are greatly to be blamed, as such who t
                   <hi>Q.</hi> Was Jesus Christ, the Son of God, <hi>d</hi> begot of God from Everlasting, or before all Ages? <hi>A. Yea.</hi>
                </p>
                <p>
-                  <pb n="2" facs="tcp:000514_0007_0FA6A8B203F4CD58"/>
+                  <pb n="2" facs="unknown:000514_0007_0FA6A8B203F4CD58"/>
                   <hi>Q.</hi> Did the holy Spirit <hi>e</hi> proceed from the Father, and from the Son, from Everlasting, or before all Ages? <hi>A. Yea.</hi>
                </p>
                <p>
@@ -279,7 +279,7 @@ weightily regarded: And who do otherwise are greatly to be blamed, as such who t
                   <hi>Q.</hi> Did man <hi>s</hi> continue in the state wherein God made him? <hi>A. Nay.</hi>
                </p>
                <p>
-                  <pb n="3" facs="tcp:000514_0008_0FA6A8B2221CC5D8"/>
+                  <pb n="3" facs="unknown:000514_0008_0FA6A8B2221CC5D8"/>
                   <hi>Q.</hi> How did man fall from his state, was it by <hi>t</hi> transgressing the Command of God, and obeying the Counsel of the Serpent? <hi>A. Yea.</hi>
                </p>
                <p>
@@ -314,7 +314,7 @@ weightily regarded: And who do otherwise are greatly to be blamed, as such who t
                   </hi> 21,22.</p>
             </div>
             <div n="2" type="section">
-               <pb n="4" facs="tcp:000514_0009_0FA6A8B2C2F27888"/>
+               <pb n="4" facs="unknown:000514_0009_0FA6A8B2C2F27888"/>
                <head>Sect. II.</head>
                <p>
                   <hi>Q.</hi> D<gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -350,7 +350,7 @@ weightily regarded: And who do otherwise are greatly to be blamed, as such who t
                <p>
                   <hi>Q.</hi> Are men to believe in Christ for Salvation, both as he is come <hi>k</hi> in the Flesh, and as he is come in the Spirit inwardly into mens hearts?</p>
                <p>
-                  <pb n="5" facs="tcp:000514_0010_0FA6A8B3874E7BC0"/>
+                  <pb n="5" facs="unknown:000514_0010_0FA6A8B3874E7BC0"/>
                   <hi>Q.</hi> How doth he come inwardly in the Spirit, into mens hearts, is it as the <hi>l</hi> Word, and Life, and quickening Spirit, and as the true Lgiht that lighteth every man that cometh into the World. <hi>A. Yea.</hi>
                </p>
                <p>
@@ -379,7 +379,7 @@ weightily regarded: And who do otherwise are greatly to be blamed, as such who t
                   <hi>Honour thy Father and Mother, &amp;c.? A.</hi> Yea.</p>
                <p>
                   <hi>Q.</hi> Why is our Duty to Parents placed next
-<pb n="6" facs="tcp:000514_0011_0FA6A8B4411EB670"/>
+<pb n="6" facs="unknown:000514_0011_0FA6A8B4411EB670"/>
 in order to our Duty immediately unto God, is it not because we owe the greatest Duty first to God, and next to our <hi>s</hi> Parents and <hi>t</hi> Ma<g ref="char:EOLhyphen"/>gistrates? <hi>A.</hi> Yea.</p>
                <p>Q. Seeing God hath delivered his Law in<g ref="char:EOLhyphen"/>wardly in mens hearts, why did he also deliver it outwardly by <hi>Moses,</hi> was it not because of <hi>u</hi> mans weakness, that ever since the fall need<g ref="char:EOLhyphen"/>eth outward Helps, and means of Instruction, as well as inward? <hi>A.</hi> Yea.</p>
                <p>
@@ -402,7 +402,7 @@ in order to our Duty immediately unto God, is it not because we owe the greatest
                   <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> WHat other outward <hi>helps</hi> &amp; <hi>means</hi> hath God given us, are they not,
-<pb n="7" facs="tcp:000514_0012_0FA6A8B4FB82F470"/>
+<pb n="7" facs="unknown:000514_0012_0FA6A8B4FB82F470"/>
 1<hi>st,</hi> the <hi>a</hi> Book of the Creation, 2<hi>div, b</hi> the holy Scripture<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> of the Old &amp; New Testament, 3<hi>dly, c</hi> good and holy men, whom God on rais<g ref="char:EOLhyphen"/>eth up, and sendeth to us? <hi>A.</hi> Yea.</p>
@@ -419,7 +419,7 @@ in order to our Duty immediately unto God, is it not because we owe the greatest
                   <hi>A.</hi> Yea.</p>
                <p>Q. Doth not the Scripture declare many things of great weight, respecting the way of mens eternal Salvation, that are not inwardly revealed to all men? <hi>A.</hi> Yea.</p>
                <p>Q. What are these things, are they not prin<g ref="char:EOLhyphen"/>cipally that <hi>i</hi> great Mystery of Christ, as he is God manifest in Flesh, and as he dyed for our Sins, and rose again for our Justification,
-<pb n="8" facs="tcp:000514_0013_0FA6A8B5B6C7E148"/>
+<pb n="8" facs="unknown:000514_0013_0FA6A8B5B6C7E148"/>
 and is ascended into Heaven, whence he sent down the holy Ghost, with most excellent Gifts to men, and where he remaineth our Advocate and Propitiation with the Father, and yet is <hi>k</hi> inwardly and spiritually present in all true Believers in him? <hi>A.</hi> Yea.</p>
                <p>Q. Is not the <hi>l</hi> Knowledge and Faith of this great Mystery absolutely necessary to make a perfect <hi>Christian? A.</hi> Yea.</p>
                <p>
@@ -432,7 +432,7 @@ and is ascended into Heaven, whence he sent down the holy Ghost, with most excel
                <p>Q. Whence were the holy Scriptures given forth, were they not given forth from the holy Spirit, by divine <hi>o</hi> Inspiration? <hi>A.</hi> Yea.</p>
                <p>Q. How are they and the things declared in them to be <hi>p</hi> understood, and made profitable unto us, is it not by our receiving a furder mea<g ref="char:EOLhyphen"/>sure of divine Illumination, to enable us daily <hi>p</hi> more and more to understand them? <hi>A.</hi> Yea.</p>
                <p>Q. What is the excellency of the <hi>q</hi> second Covenant, beyond and above the first, is it not
-<pb n="9" facs="tcp:000514_0014_0FA6A8B68ABA8178"/>
+<pb n="9" facs="unknown:000514_0014_0FA6A8B68ABA8178"/>
 that it giveth greater Illumination and Grace, and raiseth up the Children of it to a higher degree of Perfection? <hi>A.</hi> Yea.</p>
                <p>Q. And doth it not make the Children there<g ref="char:EOLhyphen"/>of perfect in due time, and giveth a perfect <hi>r</hi> Freedom from sin, and victory over it? <hi>A.</hi> Yea.</p>
                <p>Q. Is the Seed or Principle of the second or New <hi>s</hi> Covenant, after some manner, in all men? <hi>A.</hi> Yea.</p>
@@ -442,7 +442,7 @@ that it giveth greater Illumination and Grace, and raiseth up the Children of it
                <p>Q. Was not therefore Christ the <hi>y</hi> Mystery hid from Ages and Generations, until the full<g ref="char:EOLhyphen"/>ness of time, and that both as to his inward and outward Coming, for most part? <hi>A.</hi> Yea.</p>
                <p>
                   <hi>(a) Psal.</hi> 19.1,2,3. <hi>Rom.</hi> 1.20. <hi>(b) 2 Tim.</hi> 3.15,16,17. <hi>(c) Luke</hi> 11.49. <hi>Ephes.</hi> 4.11. <hi>(d) Rev.</hi> 14.6. <hi>Gen.</hi> 18.19. <hi>(e) Rom.</hi> 2.12,13,14. &amp; <hi>cap.</hi> 15.20,21. <hi>(f) Rom.</hi> 15.21. <hi>Rom.</hi> 11.25,33. <hi>Mat.</hi> 24.14. <hi>(g) Acts.</hi> 10.1,2,34,35. <hi>(h) Psal.</hi> 147.19,20. <hi>Rom.</hi> 3.2. <hi>Rom.</hi> 9.4. &amp; 16.25,26. <hi>(i) I Tim.</hi> 3.16. <hi>Rom.</hi> 4.25. <hi>Ephes.</hi> 4.8. <hi>Heb.</hi> 7.25.26. <hi>I John</hi> 2.1,2. <hi>(k) John</hi> 17.
-<pb n="10" facs="tcp:000514_0015_0FA6A8B73AF89A78"/>
+<pb n="10" facs="unknown:000514_0015_0FA6A8B73AF89A78"/>
 23. <hi>Ephes.</hi> 3.17. <hi>(l) Isa.</hi> 53.11. <hi>John</hi> 3.14,15. <hi>Rom.</hi> 10.9. <hi>(m) Gal.</hi> 1,2,3,4,5,6,7. <hi>(n) Gal.</hi> 3.23. <hi>Acts</hi> 10.34,35. <hi>(o) 2 Tim.</hi> 3.15,16. <hi>I Cor.</hi> 2.14. <hi>I Cor.</hi> 12.7. <hi>(p) Psal.</hi> 119.18. <hi>Ephes.</hi> 1.17,18. <hi>(q) Deut.</hi> 30.14. <hi>Rom.</hi> 10.6,7,8. <hi>John</hi> 1.16,17. <hi>Heb.</hi> 7,19,22. <hi>Heb.</hi> 8.6,7,8. <hi>(r) Rom.</hi> 8.<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>3,4. <hi>Joh.</hi> 8.36. <hi>Rom.</hi> 6.18. <hi>Heb.</hi>5.14. <hi>Heb.</hi> 7.19. &amp; 9.9,10,11. <hi>(s) John</hi> 1.9,10. <hi>Deut.</hi> 30.14. <hi>Rom.</hi> 10.7. <hi>(t) Rom.</hi> 10.7. <hi>(u) Rom.</hi> 16.25,26. <hi>Ephes.</hi> 3.9. <hi>Col.</hi> 26. <hi>(x) Rom.</hi> 3.25,26. <hi>I Tim.</hi> 2.6. <hi>I Pet.</hi> 5.20. <hi>Ephes.</hi> 2.7. <hi>(y) Ephes.</hi> 3.9. <hi>Rom.</hi> 16.26.</p>
@@ -453,7 +453,7 @@ that it giveth greater Illumination and Grace, and raiseth up the Children of it
                <p>Q. Was not his outward Coming in that prepared Body, to do the will of God, and to fullfill all Righteousness, <hi>b</hi> figured and held forth to the faithful of the People of <hi>Israel,</hi> under the Sacrifices, and many other Types, Shadows and Promises? <hi>A.</hi> Yea.</p>
                <p>Q. And did he not come in the <hi>c</hi> fullness of time, as was prophesied of him, <hi>to be a Sacri<g ref="char:EOLhyphen"/>fice of a sweet savour to reconcile us unto God? A.</hi> Yea.</p>
                <p>
-                  <pb n="11" facs="tcp:000514_0016_0FA6A8BB66AEFFF8"/>
+                  <pb n="11" facs="unknown:000514_0016_0FA6A8BB66AEFFF8"/>
 Q. As he came in the flesh, was he not the <hi>d</hi> Seed of <hi>Abraham</hi> and <hi>David? A.</hi> Yea.</p>
                <p>Q. Had not that <hi>e</hi> Seed of <hi>Abraham</hi> and <hi>David,</hi> which the Word assumed, the intire and perfect Nature of Man, in all its essential parts of Soul and Body, made like to us in all things, but without sin? <hi>A.</hi> Yea.</p>
                <p>Q. Was he not born <hi>f</hi> of a Virgin, call'd <hi>Mary,</hi> and conceived of the holy Ghost? <hi>A.</hi> Yea.</p>
@@ -475,7 +475,7 @@ Q. As he came in the flesh, was he not the <hi>d</hi> Seed of <hi>Abraham</hi> a
                      <desc>••</desc>
                   </gap>
                   <g ref="char:EOLhyphen"/>ing,
-<pb n="12" facs="tcp:000514_0017_0FA6A8BC8F212758"/>
+<pb n="12" facs="unknown:000514_0017_0FA6A8BC8F212758"/>
 Inspiration and Revelation of Gods Grace, Light, Life and Spirit, accompanying that Doctrine, where ever it cometh, by word or Writ, to all who do not reject it? <hi>A.</hi> Yea.</p>
                <p>Q. Doth not Christ, in the pure Gospel Administration, give forth some <hi>m</hi> peculiar Laws and Commands, under the New Cove<g ref="char:EOLhyphen"/>nant, not given to the <hi>Jews</hi> nor <hi>Gentiles</hi> under the first Covenant? <hi>A.</hi> Yea.</p>
                <p>Q. Which are these peculiar Laws and Commandments of Christ under the pure and perfect Administration of the New Covenant, are they, <hi>u</hi> 1st, <hi>That we are not to Swear at all:</hi> 2dly, <hi>That we are not to fight with carnal Wea<g ref="char:EOLhyphen"/>pons, nor carnally to resist Evil;</hi> 3dly, <hi>That a man is not to marry, or have more Wives at once, than one, nor that a man put away his Wife, save only for Fornication? A.</hi> Yea.</p>
@@ -484,7 +484,7 @@ Inspiration and Revelation of Gods Grace, Light, Life and Spirit, accompanying t
                <p>Q. Why is Christ both God and Man, is it not because of that <hi>q</hi> most high and admirable Union of his Godhead and Manhood, that no Man nor Creature hath or shall have? <hi>A.</hi> Yea.</p>
                <p>Q. But is <hi>r</hi> the Manhood of Christ changed into his Godhead? <hi>A.</hi> Nay.</p>
                <p>Q. Is not the <hi>s</hi> Manhood of Christ, or Christ
-<pb n="13" facs="tcp:000514_0018_0FA6A8BCB0CDF520"/>
+<pb n="13" facs="unknown:000514_0018_0FA6A8BCB0CDF520"/>
 as Man, wonderfully exalted above all Men and Angels? <hi>A.</hi> Yea.</p>
                <p>Q. Is it not a great <hi>t</hi> Error in some, that say, <hi>there are two Christs, one Christ that is God, another Christ that is Man? A.</hi> Yea.</p>
                <p>Q. Is <hi>u</hi> Christ in Heaven, one and the same Christ that is in the Saints? <hi>A.</hi> Yea.</p>
@@ -496,7 +496,7 @@ as Man, wonderfully exalted above all Men and Angels? <hi>A.</hi> Yea.</p>
                   </gap> sepe<g ref="char:EOLhyphen"/>ration betwixt Christ and all Unbelievers? <hi>A.</hi> Yea.</p>
                <p>
                   <hi>(a) John</hi> 5.46. <hi>Luke</hi> 24.7. <hi>John</hi> 8.56. <hi>Gen.</hi> 3.5. <hi>I Pet.</hi> 1.11. <hi>(b) Col.</hi> 2.16,17. <hi>Heb.</hi> 9.9,10,
-<pb n="14" facs="tcp:000514_0019_0FA6A8BD439F6DE0"/>
+<pb n="14" facs="unknown:000514_0019_0FA6A8BD439F6DE0"/>
 11. &amp; 10.1. <hi>(c) Gal.</hi> 4.4. <hi>Heb.</hi> 10.10,11,12. <hi>Ephes.</hi> 5.2. <hi>I Pet.</hi> 1.19. <hi>Rom.</hi> 5.10. <hi>Ephes.</hi> 2.16. <hi>Col<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>.</hi> 20,21. <hi>(d) Heb.</hi> 2.16. <hi>Acts</hi> 13.23. <hi>Rom.</hi> 1.3. <hi>(e) Heb.</hi> 2.17. <hi>Luke</hi> 23.46. <hi>Isa.</hi> 53.10. <hi>Mat.</hi> 20.38. <hi>(f) Mat.</hi> 1.18,23. <hi>(g) Heb.</hi>7.2<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -524,7 +524,7 @@ as Man, wonderfully exalted above all Men and Angels? <hi>A.</hi> Yea.</p>
                      <desc>•••</desc>
                   </gap>ed by true Believers? <hi>A.</hi> Yea.</p>
                <p>Q. Did not the Saints and true Believers from the beginning of the World, eat <hi>a</hi> the Flesh of Christ and drink his Blood, as he is
-<pb n="15" facs="tcp:000514_0020_0FA6A8BDFA0925B0"/>
+<pb n="15" facs="unknown:000514_0020_0FA6A8BDFA0925B0"/>
 the Heavenly Man and Second <hi>Adam,</hi> the Lord from Heaven? <hi>A.</hi> Yea.</p>
                <p>Q. Is <hi>b</hi> Christ the Son of God, and who is the Son of Man, to be worshipped, and pray<g ref="char:EOLhyphen"/>ed unto? <hi>A.</hi> Yea.</p>
                <p>Q. And is not all true Worship, Prayer and Thanks giving to be offered up unto God <hi>c</hi> through Jesus Christ, the one Mediator? <hi>A.</hi> Yea.</p>
@@ -533,7 +533,7 @@ the Heavenly Man and Second <hi>Adam,</hi> the Lord from Heaven? <hi>A.</hi> Yea
                <p>Q. Have the Saints on Earth <hi>e</hi> fellowship with Christ in Heaven, and receive living Re<g ref="char:EOLhyphen"/>freshments and spiritual Blessings from him in Heaven, and an increase of the holy Spirit that he sendeth down from Heaven unto them? <hi>A.</hi> Yea.</p>
                <p>Q. Are not the Birth, Life, Death, Resur<g ref="char:EOLhyphen"/>rection, Ascention of Christ, his Intercession, and returning to Judgment, with whatever the Scripture declareth of him, as outwardly, <hi>f</hi> worthy and needful Subjects of every true Christians frequent Meditation and Remem<g ref="char:EOLhyphen"/>brance, to encrease their Faith, Love, Devotion and sincere Obedience? <hi>A.</hi> Yea.</p>
                <p>Q. What maketh a <hi>Christians g</hi> Meditation on these worthy subjects, living, effectual, fruitful and profitable to him, is it not as the holy Spirit of Christ inwardly openeth the
-<pb n="16" facs="tcp:000514_0021_0FA6A8BEC2C628C8"/>
+<pb n="16" facs="unknown:000514_0021_0FA6A8BEC2C628C8"/>
 Mystery of them, and livingly and effectually applyeth them to the Soul and Heart of Man? <hi>A.</hi> Yea.</p>
                <p>Q. Is not the most <hi>h</hi> holy Life of Christ, as he lived and walked upon Earth, to be the Pattern and Example of every <hi>Christian,</hi> to live and walk as he did, as the holy Spirit of Christ in them, doth <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -557,7 +557,7 @@ Mystery of them, and livingly and effectually applyeth them to the Soul and Hear
                      <desc>•</desc>
                   </gap>t? <hi>A.</hi> Yea.</p>
                <p>Q. What <hi>n</hi> enableth a man to wait for the
-<pb n="17" facs="tcp:000514_0022_0FA6A8BF78E5B838"/>
+<pb n="17" facs="unknown:000514_0022_0FA6A8BF78E5B838"/>
 help of the holy Spirit until he receive it, is it not a measure of the same holy Spirit then received? <hi>A.</hi> Yea.</p>
                <p>Q. Are only <hi>o</hi> holy men called to preach the Gospel of Christ? <hi>A.</hi> Yea.</p>
                <p>Q. Ought not Christ's Gospel to be <hi>p</hi> f<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -577,7 +577,7 @@ help of the holy Spirit until he receive it, is it not a measure of the same hol
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>.</hi> 1.8.
-<pb n="18" facs="tcp:000514_0023_0FA6A8C0386DE858"/>
+<pb n="18" facs="unknown:000514_0023_0FA6A8C0386DE858"/>
 &amp; 7. 25. <hi>Heb.</hi> 10.19,20,21,22. &amp; 7. 25. &amp; 4. 14, 15, 16. <hi>(d) Deut.</hi> 6.13. 10.20. <hi>Mat.</hi> 4.10. <hi>Rev.</hi> 22.9. <hi>(e) Heb.</hi> 12.24. <hi>I John</hi> 1.3. <hi>I Pet.</hi> 1.12. <hi>I Thes.</hi> 1.10. <hi>John</hi> 16.7. &amp; 1.16. <hi>Col.</hi> 1.19. &amp; 2. 9. 19. <hi>(f) 2 Tim.</hi> 2.8. <hi>I Tim.</hi> 3.10. compared with c.4.6. <hi>2 Pet.</hi> 1.12. &amp; 3.1. <hi>John</hi> 14. 26. <hi>Luke.</hi> 2.19. <hi>I Cor.</hi> 11. 24,25,26. <hi>Heb.</hi> 3.1. &amp; 12.3. <hi>I Tim.</hi> 4.15. <hi>Psal.</hi> 77.12. &amp; 143. 5. &amp; 8. 3,4,5,6,7. <hi>Heb.</hi> 2. 6. <hi>(g) 2 Cor.</hi> 3.5. <hi>Rom.</hi> 8.6. <hi>Col.</hi> 1.6.10. <hi>2 John</hi> 15. 3. <hi>I Cor.</hi> 12. 7. <hi>John</hi> 6.63. <hi>Psal.</hi> 119.16.18. <hi>(h) I John</hi> 2 6. <hi>I Pet.</hi> 2. 21. <hi>(i) John</hi> 4. 23. <hi>Ephes.</hi> 6. 18. <hi>Rom.</hi> 8.20. <hi>(k) Mat.</hi> 6.32,33. <hi>Luke</hi> 11. from I, to 13. <hi>(l) I Cor.</hi> 2. 4. <hi>I Pet.</hi> 4.11. <hi>2 Cor.</hi> 3. 6. <hi>(m) Acts</hi> 1.4. <hi>Ezek.</hi> 3.15. <hi>Psal.</hi> 39.3. <hi>(n) John</hi> 15. 5. <hi>Jam.</hi> 1.17. <hi>(o) 2 Pet.</hi> 1. 21. <hi>I Tim.</hi> 3. 2. <hi>Mat.</hi> 5.13,14. &amp; 7.16. <hi>(p) Mat.</hi> 10.8. <hi>Acts</hi> 8.20. <hi>(q) I Pet.</hi> 5.2. <hi>(r) Heb.</hi> 7.<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
                   </gap>. <hi>(s) I Pet.</hi> 2.25. &amp; 5. 4. <hi>Isa.</hi> 32.1. <hi>John</hi> 12. <gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -617,7 +617,7 @@ help of the holy Spirit until he receive it, is it not a measure of the same hol
                <p>Q. Shall only they be saved by <gap reason="illegible" resp="#AELD" extent="2 words">
                      <desc>〈◊◊〉</desc>
                   </gap>
-                  <pb n="19" facs="tcp:000514_0024_0FA6A8C0FB70ACC0"/>
+                  <pb n="19" facs="unknown:000514_0024_0FA6A8C0FB70ACC0"/>
 sincerely <hi>b</hi> believe in him, love and obey him? <hi>A.</hi> Yea.</p>
                <p>Q. Are the best <hi>c</hi> good Works of the Saints done by the help of the holy Spirit in them, the ground and foundation of their Justifi<g ref="char:EOLhyphen"/>cation? <hi>A.</hi> Nay.</p>
                <p>Q. Is Christ the alone ground and <hi>c</hi> founda<g ref="char:EOLhyphen"/>tion thereof, to wit, the whole Christ, as he is both <hi>God</hi> and <hi>Man,</hi> and as <hi>he came in the Flesh,</hi> and <hi>suffered Death,</hi> and as h<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -634,7 +634,7 @@ sincerely <hi>b</hi> believe in him, love and obey him? <hi>A.</hi> Yea.</p>
                <p>Q. But is not Faith the chief Instrument, and first, in order of working, in that respect, and therefore is it <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> that mens Salvation and Justification is so much attributed to faith, as the chief Instrument thereof, even as Faith
-<pb n="20" facs="tcp:000514_0025_0FA6A8C1B5DF5220"/>
+<pb n="20" facs="unknown:000514_0025_0FA6A8C1B5DF5220"/>
 is called <hi>f</hi> the <hi>Saints Victory,</hi> in Scripture, and the <hi>Substance of things hoped for,</hi> and the <hi>Evi<g ref="char:EOLhyphen"/>dence of things not seen? A.</hi> Yea:</p>
                <p>Q. Are only such as are to be saved by Christ, <hi>g Gods Elect,</hi> who were chosen in him before the Foundation of the World? <hi>A.</hi> Yea.</p>
                <p>Q. Doth not the great Mystery of Election <hi>h</hi> and Reprobation <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -648,7 +648,7 @@ is called <hi>f</hi> the <hi>Saints Victory,</hi> in Scripture, and the <hi>Subs
                         <desc>•</desc>
                      </gap> and Apollyon? A.</hi> Yea.</p>
                <p>Q. When do any become <hi>i</hi> Reprobate, <hi>i. e.</hi> utterly rejected or cast out, is it not when they are finished, or consummated in Sin and Wick<g ref="char:EOLhyphen"/>edness, having finally rejected the offer of Grace, until their day of Visitation be expired, and that Christ hath wholly left them, and that they are become wholly as Dross and Dreg, having no Seed nor Grain of good
-<pb n="21" facs="tcp:000514_0026_0FA6A8C482733E38"/>
+<pb n="21" facs="unknown:000514_0026_0FA6A8C482733E38"/>
 Nature, or true Humanity remaining in them? A. Yea.</p>
                <p>Q. Who are these who shall be saved by Christ, and how are they called in Scripture, are they not <hi>k Gods elect Jewels of Gold, the Wheat, the good Seed, the holy Seed, the Substance, Christ's Sheep, God's Flock,</hi> and Men (or <hi>Adam,</hi> Hebr.) <hi>the Sons and Children of God, the good Fish, the good Ground, the whole Seed, the whole</hi> Israel <hi>of God, whether</hi> Jews <hi>or</hi> Gentiles, <hi>the Lambs Wi<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -656,7 +656,7 @@ Nature, or true Humanity remaining in them? A. Yea.</p>
                <p>Q. And seeing that in this World there hath been, ever since the Fall, a great Mixture betwixt these two sorts, and Seeds, not only in Nations, but in Families, and as lying toge<g ref="char:EOLhyphen"/>ther in one Womb, and as coming out of the Loyns of one Man, shall there not a perfect <hi>l</hi> seperation be made betwixt them, before the end of the World? <hi>A.</hi> Yea.</p>
                <p>Q. And in order to this perfect Seperation, and for a Witness unto all Nations, shall not the Gospel be <hi>m</hi> preached unto all Nations, and throughout the whole World, before the end, that all the good Seed, elect and pre<g ref="char:EOLhyphen"/>cious, may be gather'd into the Garner of God, and the Tares and evil Seed may be bundled up together, to be burned? <hi>A</hi> Yea.</p>
                <p>Q. Is the good Seed that is saved in Man,
-<pb n="22" facs="tcp:000514_0027_0FA6A8C52449C3B0"/>
+<pb n="22" facs="unknown:000514_0027_0FA6A8C52449C3B0"/>
 and washed and sanctified, a <hi>n</hi> created sub<g ref="char:EOLhyphen"/>stance and Nature, (to wit, the Soul of Man) the which, when it is washed and cleansed from Sin, and sanctified by Christ, is joyned unto him, the Head, and is a Member of his Body, the Church? <hi>A.</hi> Yea.</p>
                <p>Q. Do not the <hi>o</hi> Souls of Believers, who <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -739,7 +739,7 @@ and washed and sanctified, a <hi>n</hi> created sub<g ref="char:EOLhyphen"/>stan
                   <gap reason="illegible" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>
-                  <pb n="23" facs="tcp:000514_0028_0FA6A8C5769DF6D0"/>
+                  <pb n="23" facs="unknown:000514_0028_0FA6A8C5769DF6D0"/>
                   <hi>Rev.</hi> 9.11. <hi>(i) Jer.</hi> 6.30. <hi>Tit.</hi> 1.16. <hi>2 Cor.</hi> 13. 5. <hi>I Cor.</hi> 9. 27. <hi>Psal.</hi> 7. 9. &amp; 10. 15. <hi>Dan.</hi> 8. <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>3. <hi>James.</hi> 1.15. <hi>Rev.</hi> 22.11. <hi>(k) Mat.</hi> 24.31. <hi>Mal.</hi> 3.17. <hi>Rev.</hi> 21.18. &amp; 1.20. <hi>Mat.</hi> 3.12. <hi>Isa.</hi> 6.13. <hi>Rom.</hi> 4.16. <hi>Gal.</hi> 6.16. <hi>Rom.</hi> 11.26. <hi>Ezek.</hi> 37.11. &amp; 34.31. <hi>Isa.</hi> 1.27. &amp; 60.14. <hi>Rev.</hi> 21.9. <hi>I <gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -760,7 +760,7 @@ and washed and sanctified, a <hi>n</hi> created sub<g ref="char:EOLhyphen"/>stan
                   </gap>ers, both when they do outwardly eat together, remembring his Death, and when they do not outwardly eat? <hi>A.</hi> Yea.</p>
                <p>Q. Was the Seventh day of the Week, which was enjoyn'd to the <hi>Jews,</hi> to be observ'd for a Sabboth, a <hi>c</hi> figure, or shadow and sign of the spiritual Rest in Christ, the true Sab<g ref="char:EOLhyphen"/>both? <hi>A.</hi> Yea.</p>
                <p>Q. But is it not altogether necessary that Christians should frequently <hi>d</hi> meet together
-<pb n="24" facs="tcp:000514_0029_0FA6A8C64067C668"/>
+<pb n="24" facs="unknown:000514_0029_0FA6A8C64067C668"/>
 and have both places and times, wherein they should meet, to wait upon God, and worship him, and edifie and build up one another?</p>
                <p>
                   <hi>A.</hi> Yea.</p>
@@ -792,7 +792,7 @@ and have both places and times, wherein they should meet, to wait upon God, and 
                   <gap reason="illegible" resp="#AELD" extent="2 words">
                      <desc>〈◊◊〉</desc>
                   </gap>
-                  <pb n="25" facs="tcp:000514_0030_0FA6A8C6F841EAA0"/>
+                  <pb n="25" facs="unknown:000514_0030_0FA6A8C6F841EAA0"/>
 and hid to observation, for most part, and as <hi>John</hi> prophesied of her, <hi>the Woman fi<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>d into the Wilderness, where she had a place prepared o God, that they should seed her there One Thousand two Hundred and Sixty Dayes,</hi> which is, according to the Prophetical stile of Scripture, so many years? <hi>A.</hi> Yea.</p>
@@ -808,7 +808,7 @@ and hid to observation, for most part, and as <hi>John</hi> prophesied of her, <
                   </gap>d, by virtue of which they give unto, and receive from one another spiritual invisible Communi<g ref="char:EOLhyphen"/>cations of Life, Light and Grace, all procee<g ref="char:EOLhyphen"/>ding from Christ, the Head, principally, and from them Ministerially, being only Instru<g ref="char:EOLhyphen"/>ments and Conduits, or Vessels of onv<gap reason="illegible" resp="#AELD" extent="4 letters">
                      <desc>••••</desc>
                   </gap>e, whereby Life flo weth from Vessel to Vessel, by means whereof, as the said Life, Light and
-<pb n="26" facs="tcp:000514_0031_0FA6A8C7B9FDDB10"/>
+<pb n="26" facs="unknown:000514_0031_0FA6A8C7B9FDDB10"/>
 Grace is perceived and felt to flow through <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Members of Ch<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -840,7 +840,7 @@ Grace is perceived and felt to flow through <gap reason="illegible" resp="#AELD"
                   </gap>l, these h<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
                   </gap>e quoted, but throughout the Old and New Testament, to see and find whe<g ref="char:EOLhyphen"/>ther
-<pb n="27" facs="tcp:000514_0032_0FA6A8C87A3ACCA0"/>
+<pb n="27" facs="unknown:000514_0032_0FA6A8C87A3ACCA0"/>
 these things are so, <gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
                   </gap>ke the Noble <hi>Pereans</hi> of Old, A <hi> cts</hi> 17. 11. <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -873,7 +873,7 @@ these things are so, <gap reason="illegible" resp="#AELD" extent="2 letters">
                      </gap>ave (or outside) but in the</hi> MARROW, <hi>not in the Leave; o the Sermones, but in the</hi> ROOF <hi>o<gap reason="illegible" resp="#AELD" extent="3 letters">
                         <desc>•••</desc>
                      </gap> Reason.</hi> This we willingly assent unto, and therein we,
-<pb n="28" facs="tcp:000514_0033_0FA6A8C939545888"/>
+<pb n="28" facs="unknown:000514_0033_0FA6A8C939545888"/>
 agree with them, and further say, That as the Bones, and Marrow are distinct things, even as the Cup or Pipe are distinct from the Liquor in it, so the Lones are useful to convey the Marrow to us, and the Cup or Pipe is useful to convey the Liquor, when it is in it; so the Scripture words are really useful in the hand and management of the holy Spirit that gave them forth, to convey unto us that true Sense and Mind of the Spirit, by and through them, but not otherwise.</p>
                <p>The holy Scriptures are generally acknow<g ref="char:EOLhyphen"/>ledged to be given by divine Inspiration, and are writ for our learning and profi<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -899,7 +899,7 @@ agree with them, and further say, That as the Bones, and Marrow are distinct thi
                   </gap> land near clearing unto <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> and dependance on him, to be
-<pb n="29" facs="tcp:000514_0034_0FA6A8C9F8F1A6E8"/>
+<pb n="29" facs="unknown:000514_0034_0FA6A8C9F8F1A6E8"/>
 helped and assisted by his holy Spirit, in all then Reading, Searching and M<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>d<gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -908,7 +908,7 @@ helped and assisted by his holy Spirit, in all then Reading, Searching and M<gap
                <p>It doth well become all <hi>Christians,</hi> and especially all <hi>Christian Teachers,</hi> to he well skilled in, and acquainted with the words of the holy Scriptures, throughout, that they might not only be mighty in the Spirit, but in the Scriptures also, as it is said in commenda<g ref="char:EOLhyphen"/>tion of <hi>Apelios, That he was mighty in the Scrip<g ref="char:EOLhyphen"/>tures,</hi> Acts 18.24. It is a great shame to many Professed <hi>Christians,</hi> that they are less skilled and acquainted with the Scriptures of the Old and New Testament, than the <hi>Jews</hi> generally are with the Letter of the Old Testament, although the vall is over their hearts excee<g ref="char:EOLhyphen"/>dingly, as to the true sence of them, in many things. <hi>But when</hi> Israel <hi>shall turn to the Lord,</hi> as it is promised, <hi>toe Vail shall be done away.</hi> Christ did blame the <hi>Saddnees, That they erred, not knowing the Scriptures nor the <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>ower of God.</hi> Therefore <hi>Christians</hi> should have a good mea<g ref="char:EOLhyphen"/>sure of the knowledge of the Scriptures, as well as of the thing they declare; for these commonly go along together in all good <hi>Christians.</hi> The words of Scripture are a
-<pb n="30" facs="tcp:000514_0035_0FA6A8CB345A6B88"/>
+<pb n="30" facs="unknown:000514_0035_0FA6A8CB345A6B88"/>
 certain holy Language, containing a peculiar Stile and Dial<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>ct, far exceiling that of all bare humane Writing, yea, and any other Wri<g ref="char:EOLhyphen"/>tings since, and may be said to be the Language of holy men, to wit, the Prophet, &amp; Apostles; and when God speaks to his Servants, teach<g ref="char:EOLhyphen"/>ing them Doctrine by his divine Breathings and Inspirations, he doth it most commonly in Scripture Language and Words, which they have outwardly learned, by hearing and read<g ref="char:EOLhyphen"/>ing, even as when God inspires and enableth a man to preach by divine Inspiration, he doth not, in one dayes, inspire him to preach in a strange Language, but that he hath outwardly learned, as an <hi>English</hi> man to preach in <hi>English,</hi> &amp;c. All which doth greatly recommend unto us, duly to value and esteem the holy Scrip<g ref="char:EOLhyphen"/>tures, and to make a due Improvement of them, because it pleaseth God frequentl to make use of them, as Instruments in his hand, for our profitting, althongh God also m<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -919,7 +919,7 @@ certain holy Language, containing a peculiar Stile and Dial<gap reason="illegibl
             </div>
          </div>
          <div type="paraphrase">
-            <pb n="31" facs="tcp:000514_0036_0FA6A8CE017D8FB0"/>
+            <pb n="31" facs="unknown:000514_0036_0FA6A8CE017D8FB0"/>
             <head>A Short Paraphrase, or Open<g ref="char:EOLhyphen"/>ing, by way of Meditation, on that Prayer which Christ taught his Disciples, com<g ref="char:EOLhyphen"/>monly called, The Lord's Prayer.</head>
             <p>
                <hi>OUR FATHER WHICH ART IN HEAVEN.]</hi> It is the exceeding great and unspeakable Love of God Aim, hey, that the alloweth us to call him Fa<g ref="char:EOLhyphen"/>ther, and to come unto him, with the like confidence and freedom of Spirit, as Children come unto their Fathers, when they desire to have what they need from them. This Con<g ref="char:EOLhyphen"/>fidence we have, through the Spirit of his Son, the <hi>Lord Jesus Christ,</hi> f<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -931,7 +931,7 @@ certain holy Language, containing a peculiar Stile and Dial<gap reason="illegibl
                </gap> a new, and restoring n<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap> into the same, after we had fallen there-from by Transgression. We are his Off-spring, and he is nor far from us, but near unto us, for in him we live, move
-<pb n="32" facs="tcp:000514_0037_0FA6A8CE78E0AF28"/>
+<pb n="32" facs="unknown:000514_0037_0FA6A8CE78E0AF28"/>
 and have our being. And as Heaven is his Throne, where he dwelleth, and the Earth is his Foot-stool, so as his dear Son Jesus Christ hath taughtous, <hi>his Kingdom of Heaven is in us,</hi> though not comprehended or cont<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>i<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -945,7 +945,7 @@ and have our being. And as Heaven is his Throne, where he dwelleth, and the Eart
                </gap> and Temple, as the outward and natural Ai<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>
-               <pb n="33" facs="tcp:000514_0038_0FA6A8CF3B9403A0"/>
+               <pb n="33" facs="unknown:000514_0038_0FA6A8CF3B9403A0"/>
 necessary to form the natural Voice. But <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>he bare natural and humane Voice cannot as<g ref="char:EOLhyphen"/>cend unto God, nor unto the Heaven where he dwelleth, so as to receive any favourable Re<g ref="char:EOLhyphen"/>turn or Acceptance. And because God is in Heaven, and we on Earth, therefore out words, when we pray, should be few and savoury, and not as the Hypocrites, who think to be heard for their much speaking; and no further ought we <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -955,7 +955,7 @@ necessary to form the natural Voice. But <gap reason="illegible" resp="#AELD" ex
                <hi>SANCTIFIED BE THE NAME.]</hi> The Name of God is most holy forever, even from Everlasting unto Everlasting. Nothing of Holiness, nor of Glory or Majesty can be added unto the same, nor diminished there-from, as in it self. But the sins of men, and the workings of the Powers of Darkness, and of Unclean Spirits and Devils, have greatly pre<g ref="char:EOLhyphen"/>vailed in the Earth, to va<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>l and hide the Holi<g ref="char:EOLhyphen"/>ness, Glory, Beauty, Majesty and Splendor of his great and honourable Name, in and among the Children of Men. The Eye that once did see him in his Glory, is miserably darkned and blinded, and the Ear that did hear his glorious Voice and Name founded forth and proclaim<g ref="char:EOLhyphen"/>ed, is exceedingly stopt and shut in many, and Sathan hath so far prevailed with many, to make them believe, <hi>that God is no more to be seen on mens hearts, and that his Name, and
-<pb n="34" facs="tcp:000514_0039_0FA6A8CFFA7F0190"/>
+<pb n="34" facs="unknown:000514_0039_0FA6A8CFFA7F0190"/>
 Word, &amp; Voice is no more to be heard upon Earth,</hi> as it was in the dayes past, when he revealed his Name in the hearts of his Servants and Children, which was both seen and heard by them and in them. We are therefore h<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>re taught to pray, That God would be pleased to reveal his holy Name yet more abundantly in the Earth, that his way may be known upon the Earth, and his <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -975,7 +975,7 @@ Word, &amp; Voice is no more to be heard upon Earth,</hi> as it was in the dayes
                </gap>eing without his permission and Providence they can do nothing, the Wicked being in the <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="35" facs="tcp:000514_0040_0FA6A8D0B7460640"/>
+               <pb n="35" facs="unknown:000514_0040_0FA6A8D0B7460640"/>
 House of this World, as Vessels of Dishonour, which he doth and can use after a <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> holy and just manner, as his dear Servants and <gap reason="illegible" resp="#AELD" extent="3 letters">
@@ -1045,7 +1045,7 @@ House of this World, as Vessels of Dishonour, which he doth and can use after a 
                   </gap> in <gap reason="illegible" resp="#AELD" extent="2 words">
                      <desc>〈◊◊〉</desc>
                   </gap>, she shall see
-<pb n="36" facs="tcp:000514_0041_0FA6A8D179999330"/>
+<pb n="36" facs="unknown:000514_0041_0FA6A8D179999330"/>
 no Widdow-hood)</hi> may come in remembrance before God, that he may cause her to tall, as a Mill-stone fulseth into the deep Waters; for her utter fall &amp; ruin appro<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>cheth, and is nearer than in Ages past; yea, many of Gods dear Servants have seen, and see her, in the Spirit of Prophene, utterly fallen, and in the Light of his holy Word of Truth, do see her judg<g ref="char:EOLhyphen"/>ment <gap reason="illegible" resp="#AELD" extent="3 letters">
@@ -1055,7 +1055,7 @@ no Widdow-hood)</hi> may come in remembrance before God, that he may cause her t
                <hi>[THE WILL BE DONE IN EARTH AS IT IS IN HEAVEN]</hi> The Will of God is perfectly done in Heaven; all the holy Angels, and Spirits of just men made perfect, do perfectly <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> him, &amp; fullfill his holy Will, and it is most equal, just and reasonable for them so to do; for he, is their God and King, and a most bountiful Lord &amp; Benefactor unto them, and therefore it is but their reasonable Service to obey &amp; serve him with their whole
-<pb n="37" facs="tcp:000514_0042_0FA6A8D2369776C0"/>
+<pb n="37" facs="unknown:000514_0042_0FA6A8D2369776C0"/>
 strength. Nor is Mankind less bound and obliged to do his Win upon Earth, <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> is Angels are in Heaven; for he is <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1065,7 +1065,7 @@ strength. Nor is Mankind less bound and obliged to do his Win upon Earth, <gap r
                </gap> nourisheth them with suitable bread &amp; food. He feedeth the Angels with heavenly bread, and Men he feedeth, who believe and truth in him, both with heavenly bread unto their Souls, &amp; with earthly Bread unto their Bodies, so that God is sufficiently and abundantly kind unto men, according to the capacity they stand in, every one to receive his favour &amp; kindness: He offereth his Love freely unto all, and gives to every one as full and large a measure or his goodness, as they are able to receive, and if they could receive more, they should have it from his free and bountiful hand; and withal, He hath given his Servants and Children the sure Promise and Hope, <hi>That he will make them like unto the Angels at the Resurrection of the dead.</hi> And therefore men have no less cause and ground to do his Will perfectly, without any reserve, than his Angels have: His Will is most Pure and Holy, according to his most wise and holy Counsel, and most just and reasonable Laws. <hi>The Will of God is the Sanctification o his People:</hi> He requireth us not to do his Will without a regard to our good and profit; b<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap> his Will is our Happiness, when we fulfill are perform it, and in obedience to the same through the Grace &amp; Power of his holy Spirit
-<pb n="38" facs="tcp:000514_0043_0FA6A8D2F6E62748"/>
+<pb n="38" facs="unknown:000514_0043_0FA6A8D2F6E62748"/>
 we are made like unto him, and recover his holy Image and Likeness, and are again renew<g ref="char:EOLhyphen"/>ed into the same, even as by sin &amp; disobedience we lost it, and fell there-from; and not only to bear the Image of the Earthly <hi>Adam,</hi> as he was before the fall, but to bear the Image of the Heavenly <hi>Adam, Christ Jesus,</hi> who never fell, and in him to possess everlasting Life and Happiness. And we believe, that we may, by his Grace, obtain what we soek, <hi>That his Will shall be done in Earth perfectly, as it is in Heaven;</hi> for he hath not taught us to pray for an impos<g ref="char:EOLhyphen"/>sible thing, or what we do not believe that we shall or can attain unto upon Earth, and while in the mortal Body; and we have the noble &amp; excellent Pattern &amp; Example of the Lord Jesus Christ, together with the help of the holy Spirit of Promise, in our hearts, to move us to pray thus unto God who said, <hi>He came down from Heaven not to do his own Will, but the Will of the Father who sent him;</hi> and before he suffered Death on the Free of the Cross, for our sins, when his Soul was exceeding heavy unto death, he <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>a<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1075,7 +1075,7 @@ we are made like unto him, and recover his holy Image and Likeness, and are agai
                   </gap> Compass from me, not my Will, but they Will be done.</hi> We are therefore to pray, that such a Heart and Mind, like unto him, the Captain of our Sal<g ref="char:EOLhyphen"/>vation, may be found in us, that as he denyed his own Will, which was without all sin, being conceived by the holy Ghost, &amp; brought forth <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> of the Virgin, a most pure
-<pb n="39" facs="tcp:000514_0044_0FA6A8D3B887BDA0"/>
+<pb n="39" facs="unknown:000514_0044_0FA6A8D3B887BDA0"/>
 Birth, and knew no <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>n, so we may deny, not only our un<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1089,7 +1089,7 @@ Birth, and knew no <gap reason="illegible" resp="#AELD" extent="1 letter">
                </gap> perfected, and made conform unto him, to de<g ref="char:EOLhyphen"/>ny even our lawful and innocent Will, in any things that he requireth of us.</p>
             <p>
                <hi>[GIVE US THIS DAY OUR DAILY BREAD.]</hi> Since we cannot do his Will, but as we are enabled by his Grace, and strengthen<g ref="char:EOLhyphen"/>ed with that heavenly and spiritual Bread of Life, which is Christ, who said, <hi>I am that Bread of Life, be were eateth me shall live by me.</hi> We are therefore to pray unto God, to give us evermore this heavenly and spiritual bread, that it may be our daily portion, from his hea<g ref="char:EOLhyphen"/>venly and bountiful hand; for our Souls daily as much need that spiritual Bread, as our frail and mortal Bodies need the outward Bread, which we also receive from him: But as con<g ref="char:EOLhyphen"/>cerning the outward Bread, and what we shall eat or drink, or put on, the Lord Jesus Christ hath taught us, <hi>Not to take thought; for that our heavenly Father knoweth that we need these things,</hi> and he hath promised to give us them freely, although we do not ask them; for the <hi>Gentiles</hi> seek after these earthly things, but we being <hi>Christians,</hi> and followers of the Lord Jesus, we seek the heavenly things, and that heavenly Bread, which although we have it in measure already, yet we are to pray, That he would give it unto us more abundantly, that our Souls may more abundantly be enlarged to bless and
-<pb n="40" facs="tcp:000514_0045_0FA6A8D69AF8F010"/>
+<pb n="40" facs="unknown:000514_0045_0FA6A8D69AF8F010"/>
 praise his holy Name. That the Bread which we are taught to pray for, here, is not the outward Bread, is clear, because of the excel<g ref="char:EOLhyphen"/>le t<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>o der of the words of this Prayer; and seeing that the Petition for the <hi>daily-Bread,</hi> go<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1099,7 +1099,7 @@ praise his holy Name. That the Bread which we are taught to pray for, here, is n
                <hi>FORGIVE US OUR SINS, AS WE FORGIVE THEM THAT SIN AGAINST US.]</hi> Untill men attain to a perfect and sin<g ref="char:EOLhyphen"/>less state, which most are not yet arriv'd unto, divers are the sins that they fall into, through humane frailty and weakness, and therefore we need daily to pray this Prayer unto God; for granting that some have all their sins for<g ref="char:EOLhyphen"/>given them, yet seeing many others have not, who have a measure of sincerity, (and in that respect belong to the Church of Christ) and are greatly weighted and afflicted with the s<gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
                </gap>ce of their sins, and the heavy burden of sin that doth lie on them, not yet removed. 
-<pb n="41" facs="tcp:000514_0046_0FA6A8D76016D418"/>
+<pb n="41" facs="unknown:000514_0046_0FA6A8D76016D418"/>
 And seeing we are not only to pray for our selves, but for all in the <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> h<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1120,7 +1120,7 @@ And seeing we are not only to pray for our selves, but for all in the <gap reaso
                   <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, &amp;c.</hi> but in private of secret Prayer, a man may either say, <hi>I or We,</hi> as he findeth his heart inclined by the Spirit of God. And we are only to pray unto God, and to Christ, or to God through Christ, for the pardon of all sin, but not unto Angels or men, or any Creatures;
-<pb n="42" facs="tcp:000514_0047_0FA6A8D790B54090"/>
+<pb n="42" facs="unknown:000514_0047_0FA6A8D790B54090"/>
 for it is only God, and Christ, his dear Son, to whom God ha<gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
                </gap> given all Power in Heaven and Earth, who, by his own Power and Authority can <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1141,7 +1141,7 @@ for it is only God, and Christ, his dear Son, to whom God ha<gap reason="illegib
             </p>
             <p>
                <hi>AND LEAD US NOT INTO TEN<g ref="char:EOLhyphen"/>TATION.]</hi> Many and great are the Tenta<g ref="char:EOLhyphen"/>tions which accompany and follow us in this
-<pb n="43" facs="tcp:000514_0048_0FA6A8D838D1FD70"/>
+<pb n="43" facs="unknown:000514_0048_0FA6A8D838D1FD70"/>
 present evil World, <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>oth from without and from within, visible and invisible: The World, and the evil Example, Customs and Fashions of it, doth oft tempt us without, and the Flesh, until it be perfectly crucified and sub<g ref="char:EOLhyphen"/>dued, doth oft tempt us within, and Sathan, who waits all becalions, doth concur with both, and inwardly see<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1153,7 +1153,7 @@ present evil World, <gap reason="illegible" resp="#AELD" extent="1 letter">
                </gap>s at us; and he are not able, of our selves to withstand the weakest Tentation, even the strongest <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>o us; therefore we are to pray unto God, <hi>That he leave us not to our selves for one Moment,</hi> and <hi>That he do not orsake us when we are tempted, but that he would give us Grace and strength man ally to resist every Ten<g ref="char:EOLhyphen"/>tation, and to overcome them.</hi> And though it may please him to suffer us to be persued with sun<g ref="char:EOLhyphen"/>dry kinds of Tentations, for the tryal of our Faith, Love Patience and sincere Obedience, that he may permit the Enemy to cast them into our way, we are to pray unto God,<hi>That he would not let them be such as may be above the strength he giveth us, whereby to wit-stand them;</hi> for he hath graciously promised, <hi>That he will suffer none of his to be tempted above what they are able to bear, but with every Tentation will give a way to escape.</hi> And we are to pray, <hi>That the Lord would not be provoked, by our former sins, to let the Enemy loose against us;</hi> for so it happen<g ref="char:EOLhyphen"/>eth unto many, as a just judgment and punish<g ref="char:EOLhyphen"/>ment
-<pb n="44" facs="tcp:000514_0049_0FA6A8D8F7E6AB40"/>
+<pb n="44" facs="unknown:000514_0049_0FA6A8D8F7E6AB40"/>
 upon them, for <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> provoking God by former <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1178,7 +1178,7 @@ upon them, for <gap reason="illegible" resp="#AELD" extent="1 word">
             </p>
             <p>
                <hi>BUT DELIVER US FROM EVIL.]</hi> The evil One, to wit, Sathan is frequently near unto us, seeking continually to destroy us, but the Lord God Almighty, the Keeper of his People, and the Watch-man of <hi>Israel,</hi> who
-<pb n="45" facs="tcp:000514_0050_0FA6A8D9C5591C30"/>
+<pb n="45" facs="unknown:000514_0050_0FA6A8D9C5591C30"/>
 neither sleepeth nor slumbreth, is <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> unto us, to save and deliever us; and <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1232,13 +1232,13 @@ neither sleepeth nor slumbreth, is <gap reason="illegible" resp="#AELD" extent="
                </gap>ning against God; we are not to look upon <gap reason="illegible" resp="#AELD" extent="3 letters">
                   <desc>•••</desc>
                </gap>kness, Imprisonment, Spoiling and Loss of Worldly Good, or of the outward Life it self, as evil, if we be kept and pre<g ref="char:EOLhyphen"/>served with the Lord, and in him, free from sinning; for all these things which many judge, as the greatest Evils, are good to us, being blessed and sanctified unto us, who love and fear God, and are made to turn to our good and advantage: And therefore as to all out<g ref="char:EOLhyphen"/>ward
-<pb n="46" facs="tcp:000514_0051_0FA6A8DA79EFC1B0"/>
+<pb n="46" facs="unknown:000514_0051_0FA6A8DA79EFC1B0"/>
 Afflictions, Crosses and Losses, and all inward Tribulations and Exercises, we are to pray unto God, <hi>To dispose of us, as he in his infinite Wisdom and Counsel seeth fit and con<g ref="char:EOLhyphen"/>venient for us.</hi> we are not to pray to be who y delivered from them, nor any further than he seeth shall turn to his Glory, and he serviceable to us for our spiritual good and advantage. For it hath been the Lot and portion of all the dear Servants and Children of God, more or less, in all Ages, to meet with a manifold Tri<g ref="char:EOLhyphen"/>bulations, Afflictions and Exercises, both in<g ref="char:EOLhyphen"/>ward &amp; outward: We are therefore to pray, <hi>That in all our Afflictions and Tryals of an kind, God would be with us in them, &amp; give us strength, hour age and patience, as becometo true Christians and followers of Christ to bear, and go through their, knowing that through many Tribulations we must enter into the Kingdom of Heaven.</hi> And we are not only to pray these Petitions for our selves, but for all our Brethren and Sisters every where, &amp; for the whole Church of God, and all that sincerely love God &amp; breathe after him, in all Professions; Also, we are to pray for Kings, Rulers and Magistrates, and also for our Enemies, and all men, that they may be saved, so far as is possible, and whose day of Salvation is not expired.</p>
             <p>
                <hi>FOR THINE IS THE KINGDOM, THE POWER AND THE GLORY, AMEN.]</hi> It is God <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> through Jesus Christ, and
-<pb n="47" facs="tcp:000514_0052_0FA6A8DB44527DB8"/>
+<pb n="47" facs="unknown:000514_0052_0FA6A8DB44527DB8"/>
 the holy Spirit, who are one only God over all blessed forever, who hath power to answer and grant us these Petitions, and relieve all our wants and necessities, who can do abundantly above all that we can ask or think, &amp; his King<g ref="char:EOLhyphen"/>dom ruleth in all, and is exalted over all, &amp; his Glory shineth over all, and through all, to the Eyes which can see it. The Darkness cannot hide his Glory, nor e<gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
                </gap>lips it, as in it self, hut it shineth in the Darkness, as in the Light, though the darkned Eyes of the Minds of such who are blinded with sin, cannot see it; and the Glory of God is over and upon all his Works, and be<g ref="char:EOLhyphen"/>longeth who<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1257,7 +1257,7 @@ the holy Spirit, who are one only God over all blessed forever, who hath power t
                   </gap>eth and enable <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> men to do his Will on Earth as it is done in Heaven; and to such who do his Will, God giveth them plentifully of the heavenly Bread of Life, and forgiveth
-<pb n="48" facs="tcp:000514_0053_0FA6A8DBF7226140"/>
+<pb n="48" facs="unknown:000514_0053_0FA6A8DBF7226140"/>
                   <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> all these sins formerly committed, and also preserveth and <gap reason="illegible" resp="#AELD" extent="1 word">
